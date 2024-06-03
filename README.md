@@ -1,4 +1,4 @@
-# hit-android-1-first-assignment
+# HIT_Android_first_assignment
 
 You are going to build a football game service which clients can use to get the fixtures 
 (upcoming matches) and the results of football matches. 
